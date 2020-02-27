@@ -1,14 +1,5 @@
 <!--pages/user/user.wxml-->
 <text>我是用户页面</text>
-<text>
-哈哈
-</text> 
-<text>haha
-</text>
-<text>没毛dd病？？</text>
 
-
-<text>
-你好世界
-</text>
- 
+<view>2.知识点2</view>
+<view>重点：我是知识点2</view>
